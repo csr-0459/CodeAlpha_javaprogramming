@@ -17,7 +17,7 @@ class CodeAlpha_1
         n=ob.nextInt();
         int students_grade[]=new int[n];
 
-        System.out.println("Enter the suudents grade : ");
+        System.out.println("Enter the students grade : ");
         for(i=0;i<n;i++)
         {
             students_grade[i]=ob.nextInt();
