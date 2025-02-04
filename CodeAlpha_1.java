@@ -5,7 +5,6 @@ You can use arrays or ArrayLists to store the student data.*/
 
 
 import java.util.*;
-import java.util.Collections;
 class CodeAlpha_1
 {
     static public void main(String args[])
